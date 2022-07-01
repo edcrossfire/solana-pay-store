@@ -2,7 +2,6 @@ import { useWallet } from '@solana/wallet-adapter-react'
 import { WalletMultiButton } from '@solana/wallet-adapter-react-ui'
 import CouponBook from '../components/CouponBook'
 import Products from '../components/Products'
-import SiteHeading from '../components/SiteHeading'
 
 export default function HomePage() {
 
