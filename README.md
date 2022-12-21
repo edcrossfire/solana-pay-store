@@ -1,3 +1,5 @@
+# solana-pay-shop (a point-of sale web app that accepts payments via Solana and implements a loyalty program)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
